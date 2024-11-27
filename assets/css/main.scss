@@ -126,8 +126,9 @@ a {
   background: transparent;
 }
 
-a:active, a:hover, a:focus {
+a:active, a:hover, a:focus, a:visited {
   outline: 0;
+  color: $base-08;
 }
 
 img {
