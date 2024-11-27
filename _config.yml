@@ -14,7 +14,7 @@ harmony:
     email: donatas.abraitis@gmail.com
     url: http://ltnog.github.io
   google_analytics_key: TBD
-  show_disclaimer: true
+  show_disclaimer: false
 
 markdown:    kramdown
 highlighter: rouge
