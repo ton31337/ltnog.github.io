@@ -2,8 +2,8 @@ baseurl:
 url: https://ltnog.lt
 
 harmony:
-  name: Lithuanian network operators group (ltnog)
-  description:
+  name:
+  description: Lithuanian network operators group
   basetheme: jekyll-theme-dinky
   meta_description: > #
     Lithuanian network operators group
