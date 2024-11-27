@@ -36,3 +36,7 @@ sass:
 
 plugins:
   - jekyll-feed
+
+collections:
+  events:
+    output: true
