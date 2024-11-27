@@ -9,6 +9,6 @@ versions = JSON.parse(::URI.open('https://pages.github.com/versions.json').read)
 gem 'github-pages', versions['github-pages']
 gem 'rake'
 gem 'jekyll-feed'
-gem 'jekyll-theme-minimal'
+gem 'jekyll-theme-dinky'
 
 gem 'rouge'
