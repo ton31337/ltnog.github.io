@@ -126,7 +126,7 @@ a {
   background: transparent;
 }
 
-a:active, a:hover, a:focus, a:visited {
+a:active, a:link, a:hover, a:focus, a:visited {
   outline: 0;
   color: $base-08;
 }
@@ -671,10 +671,10 @@ p.post-meta {
 }
 .related-posts li small {
   font-size: 75%;
-  color: #999;
+  color: $base-08;
 }
 .related-posts li a:hover {
-  color: #268bd2;
+  color: $base-08;
   text-decoration: none;
 }
 .related-posts li a:hover small {
