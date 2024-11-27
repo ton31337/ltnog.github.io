@@ -8,7 +8,7 @@ harmony:
     Lithuanian network operators group
     Lietuvos tinklo operatorių grupė
     ltnog
-  basetheme: minimal-mistakes-jekyll
+  basetheme: jekyll-theme-minimal
   author:
     name: ltnog
     email: donatas.abraitis@gmail.com
