@@ -274,7 +274,7 @@ PLATFORMS
   x86_64-linux
 
 DEPENDENCIES
-  github-pages
+  github-pages (= 232)
   jekyll-feed
   jekyll-theme-dinky
   rake
